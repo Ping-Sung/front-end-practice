@@ -1,0 +1,38 @@
+body {
+    margin: 0;
+    color: #82a5ca;
+    background-size: cover;
+    text-align: center;
+    font-family: 'Orbitron', sans-serif;
+
+}
+
+.hero {
+    background-image: url("../images/galaxy.webp");
+    background-size: cover;
+    padding: 10px 0 40px 0;
+    
+}
+
+#title {
+    text-shadow: 0 0 5px black;
+}
+
+.apply {
+    padding: 6px 12px;
+    background-color: white;
+    border: 0;
+    font-family: inherit;
+    color: inherit;
+    
+}
+
+.click {
+    border-bottom: 2px white solid;
+    font-weight:bolder;
+}
+
+#spacex {
+    width: 200px;
+    padding-bottom: 40px;
+}
