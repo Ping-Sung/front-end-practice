@@ -1,0 +1,33 @@
+/* Complete the CSS styling according to the provided design */
+
+body {
+    background-image: url("../images/table.png");
+    background-size: cover;
+    text-align: center;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    /* font-size: 40px; */
+    color: white;
+    font-weight: bold;
+}
+
+h1 {
+    color: goldenrod;
+    /* font-size: 80px; */
+}
+
+#message-el {
+    font-style: italic;
+}
+
+
+button {
+    background-color: goldenrod;
+    width: 150px;
+    color: #016f32;
+    font-weight: bold;
+    border: 0;
+    border-radius: 5px;
+    padding: 5px 0;
+    margin: 2px 0;
+}
+
