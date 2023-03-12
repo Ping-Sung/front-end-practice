@@ -1,0 +1,67 @@
+@font-face {
+    font-family: Inter-Bold;
+    src: url(inter/Inter-Bold.otf);
+}
+
+@font-face {
+    font-family: Inter-semiBold;
+    src: url(inter/Inter-SemiBold.otf);
+}
+
+@font-face {
+    font-family: Inter;
+    src: url(inter/Inter-Black.otf);
+}
+
+body {
+    text-align: center;
+    height: 100%;
+    padding: 0;
+    margin: 0;
+}
+
+.container {
+    /* height: auto; */
+    height: 100vh;
+    padding: 0;
+    margin: 0;
+}
+
+.header {
+    height: 260px;
+    background-image: linear-gradient(to top right, #FB3796, #585DFE);
+    color: #FFFFFF;
+}
+
+.header p {
+    padding-top: 53px;
+    margin: 0;
+    font-family: 'Inter-Bold', sans-serif;
+    font-size: 22px;
+    line-height: 38px;
+}
+
+.header input {
+    padding: 0;
+    margin: 0;
+    border: 0;
+    width: 500px;
+    color: white;
+    text-align: center;
+    BACKGROUND-COLOR: transparent;
+    font-family: 'Inter-Bold', sans-serif;
+    font-size: 90px;
+    line-height: 38px;
+}
+
+.footer{
+    font-size: 14px;
+    font-family: 'Inter', sans-serif;
+}
+
+.title {
+    padding-top: 37px;
+    font-family: 'Inter-semiBold', sans-serif;
+    font-size: 14px;
+    line-height: 20px;
+}
